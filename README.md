@@ -1,10 +1,11 @@
-# Random id generator
+# Date parser
 
 ## Installation
 ``` sh
 npm install --save @v57/date
 ```
 
+## Usage
 ``` js
 const toDate = require('@v57/date')
 
