@@ -1,0 +1,21 @@
+{
+  "name": "@v57/date",
+  "version": "1.0.0",
+  "description": "Converts unix time, date, string to Date",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v57/js-date.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "v57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v57/js-date/issues"
+  },
+  "homepage": "https://github.com/v57/js-date#readme"
+}
