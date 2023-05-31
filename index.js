@@ -1,3 +1,5 @@
+'use strict'
+
 // converting any to Date
 /**
  * @param {string | number | Date | undefined} date
