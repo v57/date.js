@@ -5,7 +5,7 @@
  * @param {string | number | Date | undefined} date
  * @returns {Date | undefined}
  */
-module.exports.toDate = function(date) {
+module.exports = function toDate(date) {
   if (date == undefined) {
     return undefined
     // @ts-ignore

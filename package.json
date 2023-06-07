@@ -1,6 +1,6 @@
 {
   "name": "@v57/date",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Converts unix time, date, string to Date",
   "main": "index.js",
   "files": ["index.js", "index.d.ts"],
