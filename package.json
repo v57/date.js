@@ -1,6 +1,6 @@
 {
   "name": "@v57/date",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Converts unix time, date, string to Date",
   "main": "index.js",
   "files": ["index.js", "index.d.ts"],
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/v57/js-date.git"
+    "url": "git+https://github.com/v57/date.js.git"
   },
   "keywords": ["date"],
   "author": "v57",
   "license": "MIT",
   "engines": { "node": ">= 8.0.0" },
   "bugs": {
-    "url": "https://github.com/v57/js-date/issues"
+    "url": "https://github.com/v57/date.js/issues"
   },
-  "homepage": "https://github.com/v57/js-date#readme"
+  "homepage": "https://github.com/v57/date.js#readme"
 }
